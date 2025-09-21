@@ -1,7 +1,7 @@
 # Coca-Cola Stock Time Series Analysis
 
 ## Overview
-Analyzed monthly Coca-Cola stock prices (1970-2009) for patterns and forecasting. Confirmed non-seasonality (KW test, p>0.05), achieved stationarity via 1st differencing, fitted ARIMA(0,1,1), and generated 20-step ahead forecasts.
+Analyzed monthly Coca-Cola stock prices (1970-2009) for patterns and forecasting. Confirmed non-seasonality (KW test, p>0.05), achieved stationarity via 1st differencing, fitted ARIMA(0,2,2), and generated 20-step ahead forecasts.
 
 ## Skills Demonstrated
 - EDA: TS plotting, ACF/PACF for stationarity assessment.
